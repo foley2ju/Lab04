@@ -69,5 +69,6 @@ public class Part1
         //String
         String birthMonth = "August";
         String fullName = "Joshua Reed Foley";
+
     }
 }
